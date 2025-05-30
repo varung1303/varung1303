@@ -42,4 +42,4 @@
 
 ## 🌐 Let's Connect
 
-[📫 Email](mailto:varung1303@gmail.com) • [🔗 LinkedIn](https://linkedin.com/in/varung1303) • [📝 Resume](https://your-resume-link-here](https://drive.google.com/file/d/1IR_YH-yWhmoIxZ2ErlqC5UnZElkd_N5V/view?usp=sharing)
+[📫 Email](mailto:varung1303@gmail.com) • [🔗 LinkedIn](https://linkedin.com/in/varung1303) • [📝 Resume](https://drive.google.com/file/d/1IR_YH-yWhmoIxZ2ErlqC5UnZElkd_N5V/view?usp=sharing)

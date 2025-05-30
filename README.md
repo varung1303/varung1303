@@ -32,11 +32,15 @@
 - **🤖 AWS Face Recognition Pipeline**  
   Built a serverless face detection + recognition system using Lambda, Docker, MTCNN & FaceNet; MQTT + Greengrass used for low-latency IoT edge inference.
 
+- **😄 Emotion Recognition via Wearables**  
+  Built an LSTM-based deep learning model using PyTorch to classify emotional states from physiological sensor data (EDA, PPG, Respiration). Achieved over 85% F1-score with windowed segmentation, normalization, and sequence padding.
+
 - **📊 COVID-19 D3 Scrollytelling**  
   Animated interactive dashboard with choropleth maps, bar charts, and narrative scroll effects using D3.js + GeoJSON.
 
 - **🎮 2D Game Engine (C++/SDL2)**  
   Modular endless runner engine featuring sprite animations, OOP design, and collision detection.
+
 
 ---
 

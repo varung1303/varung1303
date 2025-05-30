@@ -35,21 +35,11 @@
 - **📊 COVID-19 D3 Scrollytelling**  
   Animated interactive dashboard with choropleth maps, bar charts, and narrative scroll effects using D3.js + GeoJSON.
 
-- **⚙️ Redshift ETL for 500K Records/Day**  
-  Designed incremental SQL ETL pipelines at EdPlus to feed 13+ dashboards from AWS Redshift, improving data latency and accuracy.
-
 - **🎮 2D Game Engine (C++/SDL2)**  
   Modular endless runner engine featuring sprite animations, OOP design, and collision detection.
 
 ---
 
-## 📈 GitHub Stats
-
-![Varun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=varung1303&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varung1303&layout=compact)
-
----
-
 ## 🌐 Let's Connect
 
-[📫 Email](mailto:varung1303@gmail.com) • [🔗 LinkedIn](https://linkedin.com/in/varung1303) • [📝 Resume](https://your-resume-link-here)
+[📫 Email](mailto:varung1303@gmail.com) • [🔗 LinkedIn](https://linkedin.com/in/varung1303) • [📝 Resume]([https://your-resume-link-here](https://drive.google.com/file/d/1IR_YH-yWhmoIxZ2ErlqC5UnZElkd_N5V/view?usp=sharing))

@@ -1,8 +1,8 @@
 # 👋 Yo, I'm Varun Gupta
 
 🎓 M.S. Computer Science @ Arizona State University  
-💻 Backend & Cloud Developer | SWE Intern @ EdPlus | Ex–ZS Associates  
-📍 Seeking Summer 2025 SWE Internships | Python • AWS • React • SQL
+💻 SWE Intern @ EdPlus | Ex–ZS Associates  
+📍 Seeking 2026 SWE Opportunities | Python • AWS • React • SQL
 
 ---
 
